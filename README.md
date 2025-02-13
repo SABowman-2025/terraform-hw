@@ -17,4 +17,5 @@ This project uses Terraform to create a basic AWS infrastructure.
 - AWS CLI set up with your credentials
 Reference: lab 1 ,2,and 3
 https://registry.terraform.io/
+https://developer.hashicorp.com/terraform/docs
 YouTube
